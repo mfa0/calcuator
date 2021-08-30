@@ -1,0 +1,28 @@
+h1 {
+    font-size: 65px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: #f109629c;
+}
+
+.container {
+    margin: auto;
+    font-size: x-large;
+    text-align: center;
+}
+input {
+    width: 348px;
+    height: 38px;
+    border-radius: 25px;
+    background-color: #cddc39;
+    border: 5px solid;
+}
+table {
+    margin: auto;
+}
+button {
+    width: 75px;
+    height: 45px;
+    border-radius: 46px;
+    background-color: #f50f84;
+    border: 3px saddlebrown;
+}
